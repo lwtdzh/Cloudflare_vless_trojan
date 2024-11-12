@@ -23,7 +23,7 @@ let IP8 = 'ip.sb'
 let IP9 = 'www.shopify.com'
 let IP10 = 'www.visa.com.tw'
 let IP11 = 'cruz.ns.cloudflare.com'
-let IP12 = 'whatismyipaddress.com'
+let IP12 = 'www.wto.org'
 let IP13 = 'icook.tw'
 
 // http_port
